@@ -1,0 +1,70 @@
+body {
+  background-color: #fdfcf9;
+  color: #2e3d30;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 60px;
+}
+
+.navbar {
+  background-color: #fdfcf9 !important;
+  border-bottom: 1px solid #d9e0d1;
+}
+
+.navbar-brand {
+  color: #4a7c59;
+  font-weight: bold;
+}
+
+.nav-link {
+  color: #2e3d30 !important;
+  margin-left: 10px;
+}
+
+.btn-contato {
+  background-color: #4a7c59;
+  color: #fff;
+  border: none;
+}
+
+.btn-contato:hover {
+  background-color: #3b6349;
+}
+
+.intro {
+  height: 100vh;
+  background-color: #fdfcf9;
+}
+
+.intro h1 {
+  font-size: 2.5rem;
+}
+
+.card {
+  transition: transform 0.3s ease;
+  border: 1px solid #cfe3d8;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+  background-color: #fdfcf9;
+  border-top: 1px solid #d9e0d1;
+  color: #2e3d30;
+}
+
+footer a {
+  color: #4a7c59;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+.modal-content {
+  background-color: #fdfcf9;
+  color: #2e3d30;
+}
